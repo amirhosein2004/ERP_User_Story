@@ -21,7 +21,7 @@ For a detailed overview of the project's structure, please refer to the [Project
 
 The API documentation is located in the `docs/api/` directory. You can find detailed endpoint descriptions there.
 
--   **[Projects API](./docs/api/projects/list.md)**
+-   **[Projects API](./docs/api/projects/api_endpoints.md)**
 
 ---
 
